@@ -1,6 +1,7 @@
 # coding: utf-8
 =begin
 キャラクターシートを管理する。
+
 =end
 
 class Dice
